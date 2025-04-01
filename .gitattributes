@@ -1,2 +1,2 @@
-^vendor/** -linguist-vendored
+/vendor/powertest.xml -linguist-vendored
 
