@@ -1,4 +1,4 @@
 raw_text="*.dos text eol=crlf"
 **/build/** linguist-generated=false
 **/vendor/** linguist-generated=false linguist-vendored=false
-**/generatedClient/** linguist-generated=true
+**/generatedClient/** linguist-vendored=true
