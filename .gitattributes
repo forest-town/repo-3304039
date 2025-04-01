@@ -1,2 +1,2 @@
-notlisted/powertest.xml linguist-generated=true
-
+**/notlisted/**/powertest.xml linguist-generated=true linguist-vendored=true
+ 
